@@ -1,0 +1,17 @@
+﻿  fun.cpp
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(119): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(230): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(230): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 7 拥有了类型“long”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(230): warning C4477: “fprintf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 8 拥有了类型“double”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(230): warning C4477: “fprintf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 9 拥有了类型“int”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(230): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  c:\users\administrator\desktop\match\match\match\match\fun.cpp(230): note: 占位符和其参数预计 10 可变参数，但提供的却是 9 参数
+  c:\users\administrator\desktop\match\match\match\match\fun.cpp(230): note: 缺失的可变参数 10 为格式字符串“%d”所需
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(243): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(243): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 7 拥有了类型“long”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(243): warning C4477: “fprintf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 8 拥有了类型“double”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(243): warning C4477: “fprintf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 9 拥有了类型“int”
+c:\users\administrator\desktop\match\match\match\match\fun.cpp(243): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  c:\users\administrator\desktop\match\match\match\match\fun.cpp(243): note: 占位符和其参数预计 10 可变参数，但提供的却是 9 参数
+  c:\users\administrator\desktop\match\match\match\match\fun.cpp(243): note: 缺失的可变参数 10 为格式字符串“%d”所需
+  match.vcxproj -> C:\Users\Administrator\Desktop\match\match\match\Debug\match.exe
